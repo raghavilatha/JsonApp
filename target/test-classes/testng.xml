@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="SuiteName" >
+
+	<test name="Test1" allow-return-values="true" >
+		<classes> 
+			<class name="com.jsonreader.raghavi.MyClass" />
+		</classes>
+	</test>
+	
+	
+	
+</suite>
+
